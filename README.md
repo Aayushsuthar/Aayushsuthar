@@ -43,6 +43,16 @@
 
 ---
 
+### 📋 Agile & Project Management
+<p>
+  🟦 Jira &nbsp;
+  🟩 Scrum &nbsp;
+  🟨 Kanban &nbsp;
+  📝 Agile Testing
+</p>
+
+---
+
 ## 📌 Projects
 
 ### 🔹 Loan Eligibility Prediction System
