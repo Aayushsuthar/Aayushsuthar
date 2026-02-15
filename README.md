@@ -65,9 +65,9 @@
 - Accuracy: **88%**
 - Compared SVC, KNN, Decision Tree, Random Forest
 
-### 🔹 Project Management using Zentry24 (Ongoing)
-- 📅 Gantt Charts, Kanban Boards, CRM
-- 🚀 Increased productivity by **30%**
+### 🔹 Project Management using ZENtry 
+- 📅 Gantt Charts, Scrum, Kanban Boards, CRM
+- 🚀 Increased productivity by **60%**
 - ⏱️ 100% on-time delivery
 
 ---
