@@ -59,16 +59,24 @@
 - 🧠 ML model with **85% accuracy**
 - Tech: Python, Scikit-learn, Pandas, Flask
 - Automated preprocessing & deployment-ready workflow
+- 🔗 [View Repository](https://github.com/Aayushsuthar/Loan-Eligibility-Prediction)
 
 ### 🔹 Medication Adherence Prediction
 - 📊 Logistic Regression on **144K+ records**
 - Accuracy: **88%**
 - Compared SVC, KNN, Decision Tree, Random Forest
+- 🔗 [View Repository](https://github.com/Aayushsuthar/Medication-Adherence-Prediction-)
 
 ### 🔹 Project Management using ZENtry 
 - 📅 Gantt Charts, Scrum, Kanban Boards, CRM
 - 🚀 Increased productivity by **60%**
 - ⏱️ 100% on-time delivery
+- 🔗 [View Repository](https://github.com/Aayushsuthar/Project-Management-using-ZENtry)
+
+### 🔷 AI Assistant Chatbot
+- 🏫 Campus navigation & faculty assistant chatbot with NLP intent recognition
+- Tech: Python, Flask, spaCy, Neo4j, Scikit-learn
+- 🔗 [View Repository](https://github.com/Aayushsuthar/AI-Assistant-Chatbot)
 
 ---
 
